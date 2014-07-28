@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Коллаж</string>
+    <string name="search_hint">Имя пользователя</string>
+    <string name="search_button">Давай коллаж</string>
+    <string name="user_not_found">Пользователь с таким именем не найден</string>
+    <string name="photos_not_found">У этого пользователя нет фотографий</string>
+    <string name="search_empty">Вы забыли ввести имя пользователя</string>
+    <string name="share">Поделиться</string>
+    <string name="create_button">Создать коллаж</string>
+    <string name="title_activity_gallery">Создание коллажа</string>
+
+</resources>
